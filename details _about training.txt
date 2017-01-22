@@ -1,0 +1,5 @@
+This version of the NN was downloaded from the experiment  detectNet_multiset5_refine_768 (digits). 
+This experiment was started at Thu Jan 05, 12:01:54 PM
+The location is /usr/share/digits/digits/jobs/20170105-120154-1f0a
+
+This version already contains the training adjusted to 768 pixel height
